@@ -1,0 +1,21 @@
+i{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Lucida Sans', sans-serif;
+}
+.nav{
+display: flex;
+text-align: center;
+padding: 0,50px;
+justify-content: space-between;
+background-color: rgb(78, 243, 152);
+
+}
+li{
+    color: blue;
+display: inline;
+margin: 55px;
+}
